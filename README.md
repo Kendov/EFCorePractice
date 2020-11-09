@@ -8,4 +8,4 @@
 - [x] Relationship
 - [x] Fluente api Mapping
 - [x] Migrations
-- [ ] Operations
+- [x] Operations
